@@ -1,5 +1,6 @@
+<h1> Cynthia's enhancement of... </h1>
 <h1> Monte Carlo Simulation of Buffon's Needle </h1>
-<h2> Status: Completed </h2>
+<h2> Forked from: <a href="https://github.com/GunnarDahm/buffon_monte_carlo_sim">GunnarDahm/buffon_monte_carlo_sim</a> </h2>
 
 <h2> Purpose </h2>
 <p> The purpsose of this project is to create a Monte Carlo simulation of the geometric probability problem, Buffon's
